@@ -57,3 +57,18 @@ font-style: italic;
 .contact {
     font-size: 12px;
 }
+
+.pdf-link {
+    color: #25D9B8;
+}
+
+.ios-button {
+    background-color: #25D9B8; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
